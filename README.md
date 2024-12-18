@@ -1,2 +1,2 @@
 # Asteroids
-an attempt to build an asteroids game, with some help, of cours
+an attempt to build an asteroids game, with some help, of course
